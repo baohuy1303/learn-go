@@ -11,16 +11,16 @@
 **Goal:** Get comfortable with Go syntax coming from JS/TypeScript
 
 #### Setup
-- [ ] Install Go 1.22+ from go.dev/dl
-- [ ] Install VS Code extension: `golang.go` (gopls)
-- [ ] Run `go version` to confirm install
-- [ ] Read the VS Code Go extension setup guide — enable format on save, lint on save
-- [ ] Create your first module: `mkdir go-practice && cd go-practice && go mod init practice`
+- [x] Install Go 1.22+ from go.dev/dl
+- [x] Install VS Code extension: `golang.go` (gopls)
+- [x] Run `go version` to confirm install
+- [x] Read the VS Code Go extension setup guide — enable format on save, lint on save
+- [x] Create your first module: `mkdir go-practice && cd go-practice && go mod init practice`
 
 #### Language basics
-- [ ] Learn basic types: `string`, `int`, `float64`, `bool`, `byte`
-- [ ] Understand `:=` (short declaration) vs `var` — know when each is used
-- [ ] Write a function with multiple return values: `func divide(a, b float64) (float64, error)`
+- [x] Learn basic types: `string`, `int`, `float64`, `bool`, `byte`
+- [x] Understand `:=` (short declaration) vs `var` — know when each is used
+- [x] Write a function with multiple return values: `func divide(a, b float64) (float64, error)`
 - [ ] Understand zero values — what is the zero value of int, string, bool, pointer, slice, map
 - [ ] Learn named returns and when NOT to use them
 - [ ] Understand `const` and `iota` for enums
