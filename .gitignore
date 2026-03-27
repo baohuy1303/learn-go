@@ -1,0 +1,12 @@
+# Binaries
+/bin/
+/build/
+*.exe
+*.out
+
+# OS stuff
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
