@@ -21,10 +21,10 @@
 - [x] Learn basic types: `string`, `int`, `float64`, `bool`, `byte`
 - [x] Understand `:=` (short declaration) vs `var` — know when each is used
 - [x] Write a function with multiple return values: `func divide(a, b float64) (float64, error)`
-- [ ] Understand zero values — what is the zero value of int, string, bool, pointer, slice, map
+- [x] Understand zero values — what is the zero value of int, string, bool, pointer, slice, map
 - [ ] Learn named returns and when NOT to use them
 - [ ] Understand `const` and `iota` for enums
-- [ ] Learn `for` loop variants — C-style, range, while-style (Go has no while)
+- [x] Learn `for` loop variants — C-style, range, while-style (Go has no while)
 - [ ] Understand `defer` — what order do multiple defers execute?
 
 #### Practice

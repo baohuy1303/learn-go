@@ -74,7 +74,7 @@ func main() {
 	}
 
 	//Method 2: more traditional way of for loop
-	for i:=0; i < 10; i++{
+	for i := 0; i < 10; i++{
 		fmt.Println(i+i)
 	}
 }
