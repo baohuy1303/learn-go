@@ -36,7 +36,6 @@ func (e electricEngine) milesLeft() uint8{
 	return e.mpkwh * e.kwh
 }
 
-// This is not
 func milesLeft_Standalone(e carEngine) uint8{
 	return e.gallons * e.mpg
 }
