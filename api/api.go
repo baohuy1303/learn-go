@@ -12,7 +12,7 @@ type Balance_Req struct{
 type Balance_Res struct{
 	StatusCode int
 
-	Balance float64
+	Balance int64
 }
 
 type Error struct{
